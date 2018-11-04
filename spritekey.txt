@@ -1,0 +1,93 @@
+#1: Shroomie
+#2: Nervous
+#3: Flustered
+#4: Flustered- Eyes Closed
+#5: Shocked
+#6: Flirty
+#7: Thinking
+
+#8: Babylon
+#9: Cora
++1: Glowball
++2: Corpse Shroomie
+
+@1: Cora- Attack (BG)
+@2: Forest Gate (BG)
+@3: Heart (BG)
+@4: Knife (BG)
+
+@5: Forest Clearing (BG)
+@6: Forest Path (BG)
+@7: Sky Rain (BG)
+@8: Temple Room (BG)
+
+
+White BG (really needed branch 19, 17, 14)
+red BG (really needed for branch 17, 12, 14)
+shroomie outline(branch 17)
+really need red eyed cora (branch12)
+black BG (branch 18)
+Starry sky, no rain (branch 18)
+pink swirl tinted forest clearing (branch15)
+3's (branch 10)
+Bab needs a soft glow
+Bab eyes closed sprite (branch 19)
+glowforest path (low priority branch6)
+
+
+playtest notes:
+Need specific click point for progressing
+music controls
+
+Title image
+intro bg
+Needs Moonlight for forest path on branch 3
+Needs a starry night sky for branch 18
+Needs a fading background for branch 19 
+
+progressively whitening forest path for DT2
+Female sillouette DT2
+Red bg for dT2
+
+Shroomie's description is almost comical due to how different her sprite is from her physical description. A bustier, more adult version with a highly sexualized pose needs to be drawn for her intro.
+
+"gingerly places hand atop chest" need this sprite/bg
+low priority, but holding out hands with the item she's holding cut off. on LJ1
+
+need more caring and compasionate look for DT4 on shroomie. Her thinking pose is too broad of a stroke.
+need eyes closing and tears streaming for DT4
+
+Cora's ending needs lustful red eyes on cora sprite
+Cora's ending needs blood red sky
+
+Corpse lady needs a gaping bleeding hole over her heart
+
+Compassionate look on shroomie for DT5, there are too many places to note, she needs this pose and all of her dialogue needs reevaluation
+
+holding out hand maybe for dt6
+
+flashing red would help with the fight scene on Gaia's end
+
+red sky, gaia's ending
+
+something far more intimate for Dt6 (and probably other routes) More than likely needs a bg closup of her body or something special painted
+
+an interior shot along with 3's everywhere for Terra's end. Possibly make the architecture and writing match up to a ruined version of the final path's area
+
+a special painting bg of you walking with Yara would help tremendously. This scene is all about feeling, and the sprite just doesn't convey it as well as it could.
+
+CG of Yara looking straight at you for the serious bit.
+
+CG of yara's hand would be swell.
+
+Sprite or CG of Yara waving/winking
+
+White light or swirling bg for yara end
+
+as stated above, Willow's ending needs pink swirling BG to hit home the feeling of being drugged. Obviously more mature and intimate CG's in willow's end.
+
+Willow giggle sprite (maybe an alteration of the flirty sprite)
+
+intimate CG here should be a cutout of her curvy body, cut off from her moaning lips maybe breast pressed against shower kinda look? Shower sex, ect. swirling hazy bg, blurring effects... just some ideas
+
+cg needs to fade to white for the future.
